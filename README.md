@@ -1,5 +1,7 @@
 # greeklish-wordlist
-A greeklish wordlist containing various permutations
+A greeklish wordlist containing various permutations. You can download it here : https://github.com/iam1980/greeklish-wordlist/raw/master/gr_wordlist.txt
+
+The python script is provided as is, small modifications to George Notaras original work.
 
 Ideally the following rules need to be implemented:
 ```
