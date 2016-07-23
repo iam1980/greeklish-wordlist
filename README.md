@@ -2,10 +2,9 @@
 A greeklish wordlist containing various permutations
 
 Ideally the following rules need to be implemented:
-
+```
 Rule 1
   Find:    αυ*|*ευ*|*ηυ*|*ου*|*Αυ*|*Ευ*|*Ηυ*|*Ου*|*ΑΥ*|*ΕΥ*|*ΗΥ*|*ΟΥ
-  
   Replace: au*|*eu*|*hu*|*ou*|*Au*|*Eu*|*Hu*|*Ou*|*AU*|*EU*|*HU*|*OU
 
 Rule 2
@@ -31,3 +30,4 @@ Rule 6
 Rule 7
   Find:    ϊ*|*Ϊ*|*ΐ*|*΄*|*‘
   Replace: i*|*I*|*i*|*'*|*'
+```
